@@ -22,57 +22,101 @@ From school platforms to data systems, I focus on creating software that people 
 ## ⚒️ Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/><br>JavaScript  
-  <img src="https://skillicons.dev/icons?i=ts" height="40"/><br>TypeScript  
-  <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python  
+<p style="display: flex; align-items: center;">
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=js" height="40"/><br>JavaScript
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=ts" height="40"/><br>TypeScript
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=python" height="40"/><br>Python
+  </span>
 </p>
 
 ---
 
 ### 🌐 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React  
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br>Next.js  
-  <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML  
-  <img src="https://skillicons.dev/icons?i=css" height="40"/><br>CSS  
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br>Tailwind CSS  
-  <img src="https://skillicons.dev/icons?i=redux" height="40"/><br>Redux  
+<p style="display: flex; align-items: center;">
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=react" height="40"/><br>React
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=nextjs" height="40"/><br>Next.js
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=html" height="40"/><br>HTML
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=css" height="40"/><br>CSS
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=tailwind" height="40"/><br>Tailwind CSS
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=redux" height="40"/><br>Redux
+  </span>
 </p>
 
 ---
 
 ### 🧩 Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js  
-  <img src="https://skillicons.dev/icons?i=express" height="40"/><br>Express.js  
+<p style="display: flex; align-items: center;">
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40"/><br>Node.js
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=express" height="40"/><br>Express.js
+  </span>
 </p>
 
 ---
 
 ### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br>MongoDB  
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL  
-  <img src="https://skillicons.dev/icons?i=postgresql" height="40"/><br>PostgreSQL  
+<p style="display: flex; align-items: center;">
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=mongodb" height="40"/><br>MongoDB
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=mysql" height="40"/><br>MySQL
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=postgresql" height="40"/><br>PostgreSQL
+  </span>
 </p>
 
 ---
 
 ### ⚙️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git  
-  <img src="https://skillicons.dev/icons?i=github" height="40"/><br>GitHub  
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/><br>Docker  
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/><br>Linux  
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/><br>Postman  
+<p style="display: flex; align-items: center;">
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=git" height="40"/><br>Git
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/><br>GitHub
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=docker" height="40"/><br>Docker
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=linux" height="40"/><br>Linux
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=postman" height="40"/><br>Postman
+  </span>
 </p>
 
 ---
 
 ### 🚀 Currently Exploring
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br>TensorFlow  
-  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/><br>PyTorch  
-  <img src="https://skillicons.dev/icons?i=aws" height="40"/><br>AWS  
+<p style="display: flex; align-items: center;">
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/><br>TensorFlow
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=pytorch" height="40"/><br>PyTorch
+  </span>
+  <span style="text-align: center; margin-right: 20px;">
+    <img src="https://skillicons.dev/icons?i=aws" height="40"/><br>AWS
+  </span>
 </p>
