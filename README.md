@@ -22,102 +22,57 @@ From school platforms to data systems, I focus on creating software that people 
 ## ⚒️ Tech Stack
 
 ### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/> JavaScript  
+  <img src="https://skillicons.dev/icons?i=ts" height="40"/> TypeScript  
+  <img src="https://skillicons.dev/icons?i=python" height="40"/> Python  
+</p>
 
-* JavaScript
-* TypeScript
-* Python
+---
 
 ### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/> React  
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40"/> Next.js  
+  <img src="https://skillicons.dev/icons?i=html" height="40"/> HTML  
+  <img src="https://skillicons.dev/icons?i=css" height="40"/> CSS  
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/> Tailwind CSS  
+  <img src="https://skillicons.dev/icons?i=redux" height="40"/> Redux  
+</p>
 
-* React
-* Next.js
-* HTML, CSS
+---
 
 ### 🧩 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js  
+  <img src="https://skillicons.dev/icons?i=express" height="40"/> Express.js  
+</p>
 
-* Node.js
-* Express
+---
 
 ### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40"/> MongoDB  
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/> MySQL  
+  <img src="https://skillicons.dev/icons?i=postgresql" height="40"/> PostgreSQL  
+</p>
 
-* MongoDB
-* SQL
+---
 
 ### ⚙️ Tools & Technologies
-
-* Git & GitHub
-* Docker
-* REST APIs
-* Worker Threads
-* Linux
-
----
-
-## 🚀 Featured Projects
-
-### 🏫 School Management System
-
-A full-stack platform for handling student registration, records, and administration.
-
-* Built with modern web technologies
-* Handles real-world data workflows
+<p>
+  <img src="https://skillicons.dev/icons?i=git" height="40"/> Git  
+  <img src="https://skillicons.dev/icons?i=github" height="40"/> GitHub  
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker  
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/> Linux  
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/> Postman  
+</p>
 
 ---
 
-### 📊 CSV Data Processing System
-
-High-performance system for processing large datasets.
-
-* Uses worker threads for parallel processing
-* Optimized for scalability
-
----
-
-### 🌐 School Website & Online Registration
-
-Developed a complete website with integrated online registration system.
-
-* Designed for usability and accessibility
-* Used by real users in a school environment
-
----
-
-### 🚜 Excavator Prototype
-
-A hardware + software project showcased in exhibitions.
-
-* Combines engineering and programming
-* Demonstrates problem-solving beyond software
-
----
-
-## 📈 What I Am Working On
-
-* Advancing into **Machine Learning and AI systems**
-* Building **scalable backend architectures**
-* Exploring **real-time and distributed systems**
-
----
-
-## 🎯 Vision
-
-I aim to become an engineer who builds systems that:
-
-* Solve real societal problems
-* Scale to impact thousands of people
-* Push the boundaries of AI and intelligent systems
-
----
-
-## 🌐 Connect With Me
-
-* GitHub: https://github.com/lemigobena
-* LinkedIn: https://www.linkedin.com/in/lemi-gobena
-* Portfolio: https://lemigobena.vercel.app
-
----
-
-## ⚡ Final Note
-
-I am constantly building, learning, and improving.
-If you are interested in collaboration, innovation, or building impactful systems — feel free to reach out.
+### 🚀 Currently Exploring
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/> TensorFlow  
+  <img src="https://skillicons.dev/icons?i=pytorch" height="40"/> PyTorch  
+  <img src="https://skillicons.dev/icons?i=aws" height="40"/> AWS  
+</p>
