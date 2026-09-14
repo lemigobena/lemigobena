@@ -1,7 +1,7 @@
 # Hi, I am Lemi 👋
 
-### Full Stack Developer | Problem Solver | Future AI Engineer
-
+### Full-Stack & ML Engineer | Next.js, NodeJS, React Native, PostgreSQL
+ | 
 I build systems that solve real problems. Not just tutorials. Not just experiments.
 From school platforms to data systems, I focus on creating software that people actually use.
 
